@@ -1,6 +1,6 @@
 package com.company;
 import java.util.ArrayList;
-import java.util.Random;
+import java.util.Randosm;1
 
 public class Counter {
      String tempX = "000000";
