@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class Counter {
-     String tempX = "000000";
+    String tempX = "000000";
     private int nState = 10;
     private int nCombinations = 64;
     String[][] forbiddenCombinations = new String[nState][nCombinations];
